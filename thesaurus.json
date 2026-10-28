@@ -1,0 +1,18 @@
+{
+  "groups": [
+    ["search", "retrieval", "query", "lookup"],
+    ["document", "page", "text"],
+    ["compression", "compress", "compact", "shrink"],
+    ["feedback", "judgement", "judgment"],
+    ["expansion", "reformulation", "expand"],
+    ["ranking", "rank", "score", "scoring"],
+    ["index", "dictionary", "vocabulary"],
+    ["user", "searcher", "person"],
+    ["relevant", "useful", "pertinent"],
+    ["synonym", "thesaurus", "related"],
+    ["misspell", "spelling", "typo"],
+    ["crawler", "spider", "bot"],
+    ["precision", "accuracy"],
+    ["recall", "coverage"]
+  ]
+}
